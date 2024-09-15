@@ -1,0 +1,15 @@
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\bin\Debug\net8.0\ProcessingLargeAmountOfData.exe
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\bin\Debug\net8.0\ProcessingLargeAmountOfData.deps.json
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\bin\Debug\net8.0\ProcessingLargeAmountOfData.runtimeconfig.json
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\bin\Debug\net8.0\ProcessingLargeAmountOfData.dll
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\bin\Debug\net8.0\ProcessingLargeAmountOfData.pdb
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\ProcessingLargeAmountOfData.GeneratedMSBuildEditorConfig.editorconfig
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\ProcessingLargeAmountOfData.AssemblyInfoInputs.cache
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\ProcessingLargeAmountOfData.AssemblyInfo.cs
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\ProcessingLargeAmountOfData.csproj.CoreCompileInputs.cache
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\ProcessingLargeAmountOfData.dll
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\refint\ProcessingLargeAmountOfData.dll
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\ProcessingLargeAmountOfData.pdb
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\ProcessingLargeAmountOfData.genruntimeconfig.cache
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\ref\ProcessingLargeAmountOfData.dll
+A:\My\University\2course\Data bases\Practise1\ProcessingLargeAmountOfData\obj\Debug\net8.0\ProcessingLargeAmountOfData.sourcelink.json
